@@ -804,7 +804,7 @@
 198| [House Robber](https://leetcode.com/problems/house-robber/)| Python | _O(n)_          | _O(1)_          | Easy           ||
 213| [House Robber II](https://leetcode.com/problems/house-robber-ii/)|   Python | _O(n)_          | _O(1)_          | Medium           ||
 221| [Maximal Square](https://leetcode.com/problems/maximal-square/)|   Python | _O(n^2)_         | _O(n)_          | Medium           | EPI |
-256| [Paint House](https://leetcode.com/problems/paint-house/) |   Python | _O(n)_| _O(1)_| Medium |🔒||
+256| [Paint House](https://leetcode.com/problems/paint-house/) |   [Python](./Python/Paint Fence.py) | _O(n)_| _O(1)_| Medium |🔒||
 265| [Paint House II](https://leetcode.com/problems/paint-house-ii/) |   Python | _O(n * k)_| _O(k)_| Hard |🔒||
 276| [Paint Fence](https://leetcode.com/problems/paint-fence/) |   [Python](./Python/Paint Fence.py) | _O(n)_| _O(1)_| Easy |🔒||
 279| [Perfect Squares](https://leetcode.com/problems/perfect-squares/)|   Python | _O(n * sqrt(n))_         | _O(n)_          | Medium           ||  Hash |
