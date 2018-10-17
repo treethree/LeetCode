@@ -129,7 +129,7 @@
 644 | [Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/) | | _O(n)_ | _O(n)_ | Hard | 🔒 | Math
 661| [Image Smoother](https://leetcode.com/problems/image-smoother/) | | _O(m * n)_ |  _O(1)_ | Easy         |||
 665| [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | | _O(n)_ |  _O(1)_ | Easy         |||
-667| [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | | _O(n)_ |  _O(1)_ | Medium         |||
+667| [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) |  | _O(n)_ |  _O(1)_ | Medium         |||
 670| [Maximum Swap](https://leetcode.com/problems/maximum-swap/) | | _O(logn)_ |  _O(logn)_ | Medium         |||
 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | | _O(n)_ | _O(1)_ | Easy ||
 683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | | _O(n)_ | _O(n)_ | Hard ||
@@ -772,7 +772,7 @@
 294| [Flip Game II](https://leetcode.com/problems/flip-game-ii/) | | _O(n + c^2)_ | _O(c)_ | Medium         |🔒| DP, Hash |
 320| [Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/) | | _O(n * 2^n)_ | _O(n)_ | Medium         |🔒||
 425| [Word Squares](https://leetcode.com/problems/word-squares/) | | _O(n^2 * n!)_ | _O(n^2)_ | Hard         |🔒||
-526| [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | | _O(n!)_ | _O(n)_  | Medium       ||
+526| [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | | _O(n!)_ | _O(n)_  | Medium |Google🔥|
 676| [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) | | _O(n)_ | _O(d)_  | Medium       || Trie, DFS
 679| [24 Game](https://leetcode.com/problems/24-game/) | | _O(1)_ | _O(1)_  | Hard       || DFS
 698| [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | | _O(n * 2^n)_ | _O(2^n)_ | Medium || DFS, DP, Memoization
