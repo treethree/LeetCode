@@ -794,7 +794,7 @@
 096| [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | | _O(n)_      | _O(1)_         | Medium         || Math
 097| [Interleaving String](https://leetcode.com/problems/interleaving-string/)| | _O(m * n)_ | _O(m + n)_ | Hard         ||
 115| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)| | _O(n^2)_ | _O(n)_ | Hard           ||
-120| | _O(m * n)_      | _O(n)_         | Medium         ||
+120| [Triangle](https://leetcode.com/problems/triangle/)|| _O(m * n)_      | _O(n)_         | Medium         ||
 123| [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | | _O(n)_ | _O(1)_ | Hard ||
 132| [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | | _O(n^2)_ | _O(n^2)_ | Hard ||
 139| [Word Break](https://leetcode.com/problems/word-break/)     | |  _O(n * l^2)_         | _O(n)_       | Medium         ||
