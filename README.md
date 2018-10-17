@@ -806,7 +806,7 @@
 221| [Maximal Square](https://leetcode.com/problems/maximal-square/)|   Python | _O(n^2)_         | _O(n)_          | Medium           | EPI |
 256| [Paint House](https://leetcode.com/problems/paint-house/) |   Python | _O(n)_| _O(1)_| Medium |🔒||
 265| [Paint House II](https://leetcode.com/problems/paint-house-ii/) |   Python | _O(n * k)_| _O(k)_| Hard |🔒||
-276| [Paint Fence](https://leetcode.com/problems/paint-fence/) |   Python | _O(n)_| _O(1)_| Easy |🔒||
+276| [Paint Fence](https://leetcode.com/problems/paint-fence/) |   [Python](./Python/Paint Fence.py) | _O(n)_| _O(1)_| Easy |🔒||
 279| [Perfect Squares](https://leetcode.com/problems/perfect-squares/)|   Python | _O(n * sqrt(n))_         | _O(n)_          | Medium           ||  Hash |
 303| [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|   Python | ctor: _O(n)_, lookup: _O(1)_          | _O(n)_          | Easy           ||
 304| [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|   Python | ctor: _O(m * n)_, lookup: _O(1)_          | _O(m * n)_          | Medium           ||
