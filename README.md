@@ -351,7 +351,7 @@
 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/) |   Python | ctor: _O(m * n)_, update: _O(logm + logn)_, query:  _O(logm + logn)_ | _O(m * n)_ | Hard | 🔒 | DFS, Segment Tree, BIT
 315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|   Python| _O(nlogn)_ | _O(n)_ | Hard | LintCode | BST, BIT, Divide and Conquer |
 525| [Contiguous Array](https://leetcode.com/problems/contiguous-array/) |   Python | _O(n)_ | _O(n)_ | Medium         | |
-529 | Python | _O(m * n)_ | _O(m + n)_ | Medium    ||
+529| [Minesweeper](https://leetcode.com/problems/minesweeper) | Python | _O(m * n)_ | _O(m + n)_ | Medium    ||
 536 | [Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/) |   Python | _O(n)_ | _O(h)_ | Medium    | 🔒 |
 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |   Python | _O(n)_ | _O(h)_ | Easy    ||
 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) |   Python | _O(n)_ | _O(h)_ | Easy    ||
@@ -637,7 +637,7 @@
 374| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|   Python   | _O(logn)_          | _O(1)_          | Easy         | |
 410| [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|   Python   | _O(nlogs)_          | _O(1)_          | Hard         | |
 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) |   Python | _O(nlogn)_ | _O(n)_ | Medium | |
-475 | Python | _O((m + n) * logn)_ | _O(1)_ | Easy | |
+475 | [Heaters](https://leetcode.com/problems/heaters)| Python | _O((m + n) * logn)_ | _O(1)_ | Easy | |
 540|[Single Element in a Sorted Array](https://leetcode.com/problems/dsingle-element-in-a-sorted-array/)|   Python| _O(logn)_ | _O(1)_ | Medium | |
 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) |   Python | _O(logn + k)_ | _O(1)_ | Medium | |
 668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) |   Python | _O(m * log(m * n))_ | _O(1)_ | Hard | |
@@ -752,14 +752,14 @@
 037| [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Python | _O((9!)^9)_  | _O(1)_          | Hard           ||
 039| [Combination Sum](https://leetcode.com/problems/combination-sum/)| Python | _O(k * n^k)_    | _O(k)_          | Medium         ||
 040| [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| Python| _O(k * C(n, k))_| _O(k)_         | Medium         ||
-046| Python | _O(n * n!)_         | _O(n)_          | Medium         ||
+046| [Permutations](https://leetcode.com/problems/permutations/) | Python | _O(n * n!)_         | _O(n)_          | Medium         ||
 047| [Permutations II](https://leetcode.com/problems/permutations-ii/)| Python | _O(n * n!)_   | _O(n)_          | Medium           ||
 051| [N-Queens](https://leetcode.com/problems/n-queens/)      | Python   | _O(n!)_         | _O(n)_          | Hard           ||
 052| [N-Queens-II](https://leetcode.com/problems/n-queens-ii/)   | Python | _O(n!)_        | _O(n)_          | Hard           ||
-077| Python | _O(O(k * C(n, k)))_ | _O(k)_           | Medium         ||
+077| [Combinations](https://leetcode.com/problems/combinations) |Python | _O(O(k * C(n, k)))_ | _O(k)_           | Medium         ||
 079| [Word Search](https://leetcode.com/problems/word-search/) | Python | _O(m * n * l)_ | _O(l)_ | Medium         ||
 093| [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | Python | _O(1)_ | _O(1)_ | Medium         ||
-078| Python    | _O(n * 2^n)_    | _O(1)_          | Medium         ||
+078| [Subsets](https://leetcode.com/problems/subsets/)|Python    | _O(n * 2^n)_    | _O(1)_          | Medium         ||
 090| [Subsets II](https://leetcode.com/problems/subsets-ii/)    |   Python | _O(n * 2^n)_    | _O(1)_          | Medium         ||
 126| [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)   |Python | _O(n * d)_ | _O(d)_         | Hard         ||
 131| [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Python | _O(n^2)_ ~ _O(2^n)_ | _O(n^2)_ | Medium ||
@@ -884,7 +884,7 @@
 055| [Jump Game](https://leetcode.com/problems/jump-game/)     | Python  | _O(n)_          | _O(1)_          | Medium         ||
 122| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| Python | _O(n)_ | _O(1)_ | Easy ||
 134| [Gas Station](https://leetcode.com/problems/gas-station/)| Python   | _O(n)_          | _O(1)_          | Medium         ||
-135| Python | _O(n)_ | _O(n)_ | Hard ||
+135| [Candy](https://leetcode.com/problems/candy/)|Python | _O(n)_ | _O(n)_ | Hard ||
 316| [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) |   Python | _O(n)_| _O(k)_| Hard || Ascending Stack |
 321| [Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)|   Python | _O(k * (m + n + k))_ ~ _O(k * (m + n + k^2))_| _O(m + n + k^2)_ | Hard | variant of [Delete Digits](http://www.lintcode.com/en/problem/delete-digits/) | Greedy, DP
 330| [Patching Array](https://leetcode.com/problems/patching-array/) |   Python | _O(s + logn)_ | _O(1)_       | Hard           ||
