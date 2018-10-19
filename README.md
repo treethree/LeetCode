@@ -1,5 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/algorithms/)
-
+My personal leetcode answers
+This is a continually updated, open source project.
 ## Algorithms
 
 * [Bit Manipulation](https://github.com/treethree/LeetCode#bit-manipulation)
