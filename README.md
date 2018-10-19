@@ -416,7 +416,7 @@ My leetcode answers
 340| [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)| | _O(n)_ | _O(1)_ | Hard         |🔒Google🔥|
 356| [Line Reflection](https://leetcode.com/problems/line-reflection/) | | _O(n)_| _O(n)_| Medium |🔒| Hash, Two Pointers |
 387| [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | | _O(n)_| _O(n)_| Easy |||
-388| [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | | _O(n)_| _O(d)_| Medium |Google🔥| Stack |
+388| [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) |[Python](Python/Longest_Absolute_File_Path.py) [java](Java/Longest_Absolute_File_Path.java) | _O(n)_| _O(d)_| Medium |Google🔥| Stack |
 409| [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | | _O(n)_| _O(1)_| Easy |||
 424| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | | _O(n)_| _O(1)_| Medium |||
 438| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | | _O(n)_          | _O(1)_          | Easy           ||
