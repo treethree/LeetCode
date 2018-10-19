@@ -408,7 +408,7 @@ My leetcode answers
 288| [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/) | | ctor: _O(n)_, lookup: _O(1)_ | _O(k)_ | Easy         |🔒Google🔥||
 290| [Word Pattern](https://leetcode.com/problems/word-pattern/) | | _O(n)_ | _O(c)_ | Easy         | variant of [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ||
 299| [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | | _O(n)_ | _O(1)_ | Easy         |||
-305| [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) | | _O(k)_ | _O(k)_| Hard         | Google🔥🔒 | Union Find
+305| [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) |[Python](Python/Number_of_Islands_II.py) | _O(klgmn)_ | | Hard         | Google🔥🔒 | Union Find
 314| [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | | _O(n)_ | _O(n)_| Medium         | 🔒 | BFS
 323| [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | | _O(n)_ | _O(n)_| Medium         | 🔒 | Union Find
 325| [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | | _O(n)_ | _O(n)_|  Medium         | 🔒 |
