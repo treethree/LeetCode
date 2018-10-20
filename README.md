@@ -206,6 +206,7 @@ My leetcode answers
 443| [String Compression](https://leetcode.com/problems/string-compression/) | | _O(n)_ | _O(1)_ | Easy         | |
 459| [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | | _O(n)_ | _O(n)_ | Easy         || `KMP Algorithm` |
 468| [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | | _O(1)_ | _O(1)_ | Medium         | |
+482| [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) |[Python](Python/License_Key_Formatting.py) [Java](Java/License_Key_Formatting.java) | _O(n)_ | _O(n)_ | Easy         |Google🔥 |
 520| [Detect Capital](https://leetcode.com/problems/detect-capital/) | | _O(l)_ | _O(1)_ | Easy         | |
 521| [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | | _O(min(a, b))_ | _O(1)_ | Easy         | |
 522| [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | | _O(l * n^2)_ | _O(1)_ | Medium         | | Sort
