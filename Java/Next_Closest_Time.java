@@ -1,0 +1,22 @@
+// The natural way to represent the time is as an integer t in the range 0 <= t < 24 * 60.
+// Then the hours are t / 60, the minutes are t % 60,
+// and each digit of the hours and minutes can be found by hours / 10, hours % 10 etc.
+class Solution {
+    public String nextClosestTime(String time) {
+        int cur = 60 * Integer.parseInt(time.substring(0, 2));
+        cur += Integer.parseInt(time.substring(3));
+        Set<Integer> allowed = new HashSet();
+        for (char c: time.toCharArray()) if (c != ':') {
+            allowed.add(c - '0');
+        }
+
+        while (true) {
+            cur = (cur + 1) % (24 * 60);
+            int[] digits = new int[]{cur / 60 / 10, cur / 60 % 10, cur % 60 / 10, cur % 60 % 10};
+            search : {
+                for (int d: digits) if (!allowed.contains(d)) break search;
+                return String.format("%02d:%02d", cur / 60, cur % 60);
+            }
+        }
+    }
+}

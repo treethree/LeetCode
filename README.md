@@ -224,7 +224,7 @@ My leetcode answers
 657| [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/) | | _O(n)_ | _O(1)_ | Easy         | |
 678| [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | | _O(n)_ | _O(1)_ | Medium         | |
 680| [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | | _O(n)_  | _O(1)_         | Easy           ||
-681| [Next Closest Time](https://leetcode.com/problems/next-closest-time/) | | _O(1)_  | _O(1)_         | Medium           |Google🔥|
+681| [Next Closest Time](https://leetcode.com/problems/next-closest-time/) |[Python](Python/Next_Closest_Time.py) [Java](Java/Next_Closest_Time.java) | _O(1)_  | _O(1)_         | Medium           |Google🔥|
 686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | | _O(n + m)_ | _O(1)_ | Easy |Google🔥| `Rabin-Karp Algorithm` |
 696| [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | | _O(n)_ | _O(1)_ | Easy||
 720| [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | | _O(n)_ | _O(t)_ | Easy         || Trie |
