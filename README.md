@@ -319,7 +319,7 @@ My leetcode answers
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 239| [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| | _O(n)_        | _O(k)_          | Hard           | EPI, LintCode |
 281| [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/)| | _O(n)_        | _O(k)_          | Medium           |🔒Google🔥||
-346| [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)| | _O(1)_        | _O(w)_          | Easy           |🔒Google🔥||
+346| [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|[Python](Python/Moving_Average_from_Data_Stream.py) | _O(1)_        | _O(w)_          | Easy           |🔒Google🔥||
 862| [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)| | _O(n)_        | _O(n)_          | Hard           |||
 
 ## Heap
