@@ -603,7 +603,7 @@ My leetcode answers
 129| [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | | _O(n)_ | _O(h)_ | Medium ||
 156| [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/) | | _O(n)_ | _O(1)_ | Medium    |🔒|
 241| [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | | _O(n * 4^n / n^(3/2))_ | _O(n * 4^n / n^(3/2))_ | Medium    ||
-298 | [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) | | _O(n)_ | _O(h)_ | Medium    |🔒Google🔥|
+298 | [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) |[Python](Python/Binary_Tree_Longest_Consecutive_Sequence.py) | _O(n)_ | _O(h)_ | Medium    |🔒Google🔥|
 327| [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | | _O(nlogn)_        | _O(n)_          | Hard         |Google🔥|
 333 | [Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/) | | _O(n)_ | _O(h)_ | Medium    |🔒|
 337| [House Robber III](https://leetcode.com/problems/house-robber-iii/) | | _O(n)_          | _O(h)_          | Medium           ||
