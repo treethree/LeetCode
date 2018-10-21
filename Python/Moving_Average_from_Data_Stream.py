@@ -9,8 +9,21 @@
 # m.next(5) = (10 + 3 + 5) / 3 // return 6.00000
 
 
-
 class MovingAverage:
+    def __init__(self, size):
+        self.size, self.queue, self.sum = size, [], 0
+
+    def next(self, val):
+        self.queue.append(val)
+        self.sum += val
+        if len(self.queue) > self.size:
+            self.sum -= self.queue[0]
+            self.queue.pop(0)
+        return self.sum / len(self.queue)
+
+
+
+class MovingAverage2:
     """
     @param: size: An integer
     """
