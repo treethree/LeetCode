@@ -827,7 +827,7 @@ My leetcode answers
 377| [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)| | _O(nlogn + n * t)_          | _O(t)_          | Medium         | |
 403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | | _O(n)_ | _O(n) ~ O(n^2)_ | Hard ||
 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | | _O(n * s)_ | _O(s)_ | Medium ||
-418 | [Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/) | | _O(r + n * c)_ | _O(n)_ | Medium |🔒Google🔥|
+418 | [Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/) |[Python](Python/Sentence_Screen_Fitting.py) [Java](Java/Sentence_Screen_Fitting.java) | _O(r + n * c)_ | _O(n)_ | Medium |🔒Google🔥|
 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | | _O(n^2)_ | _O(n * d)_ | Hard ||
 465 | [Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/) | | _O(n * 2^n)_ | _O(n * 2^n)_ | Hard |🔒Google🔥|
 466 | [Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/) | | _O(s1 * min(s2, n1))_ | _O(s2)_ | Hard ||
