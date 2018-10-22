@@ -821,7 +821,7 @@ My leetcode answers
 322| [Coin Change](https://leetcode.com/problems/coin-change/) | | _O(n * k)_ | _O(k)_ | Medium ||
 351| [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/) | | _O(9^2 * 2^9)_ | _O(9 * 2^9)_ | Medium | 🔒Google🔥 | Backtracking |
 357| [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | | _O(n)_ | _O(1)_ | Medium || Backtracking, Math |
-361| [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) | | _O(m * n)_ | _O(m * n)_ | Medium | Google🔥 | |
+361| [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) |[Python](Python/Bomb_Enemy.py) [Java](Java/Bomb_Enemy.java) | _O(m * n)_ | _O(m * n)_ | Medium | Google🔥 | |
 368| [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | | _O(n^2)_ | _O(n)_ | Medium | | |
 375| [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)| | _O(n^2)_          | _O(n^2)_          | Medium         | |
 377| [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)| | _O(nlogn + n * t)_          | _O(t)_          | Medium         | |
