@@ -436,7 +436,7 @@ My leetcode answers
 599| [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | | _O((m + n) * l)_ | _O(m * l)_ | Easy         | |
 609| [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | | _O(n * l)_ | _O(n * l)_ | Medium         | |
 721| [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | | _O(nlogn)_ | _O(n)_| Medium         || Union Find
-734| [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) | | _O(n + p)_ | _O(p)_| Easy         |Google🔥|
+734| [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) |[Python](Python/Sentence_Similarity.py) | _O(n + p)_ | _O(p)_| Easy         |Google🔥|
 737| [Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/) | | _O(n + p)_ | _O(p)_| Medium         |Google🔥| Union Find
 748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | | _O(n)_ | _O(1)_ | Easy ||
 760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) | | _O(n)_ | _O(n)_ | Easy ||
