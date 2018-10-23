@@ -297,7 +297,7 @@ My leetcode answers
 331| [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | | _O(n)_| _O(1)_| Medium |||
 341| [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)| | _O(n)_        | _O(h)_          | Medium           |🔒Google🔥| Iterator |
 385| [Mini Parser](https://leetcode.com/problems/mini-parser/)| | _O(n)_        | _O(h)_          | Medium           |||
-394| [Decode String](https://leetcode.com/problems/decode-string/)| | _O(n)_        | _O(h)_          | Medium           |Google🔥||
+394| [Decode String](https://leetcode.com/problems/decode-string/)|[Python](Python/Decode_String.py) | _O(n)_        | _O(h)_          | Medium           |Google🔥||
 439| [Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/) | | _O(n)_          | _O(1)_          | Medium           |🔒|
 456| [132 Pattern](https://leetcode.com/problems/132-pattern/) | | _O(n)_          | _O(n)_          | Medium           ||
 636| [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) | | _O(n)_  | _O(n)_         | Medium           ||
