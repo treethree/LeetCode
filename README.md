@@ -57,7 +57,7 @@ My leetcode answers
 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | | _O(1)_ | _O(1)_ | Easy | |
 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | | _O(1)_ | _O(1)_ | Easy | LintCode |
 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | | _O(n)_ | _O(1)_ | Easy | |
-393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | | _O(n)_ | _O(1)_ | Medium |Google🔥 |
+393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) |[Python](Python/UTF-8_Validation.py) | _O(n)_ | _O(1)_ | Medium |Google🔥 |
 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | | _O(1)_ | _O(1)_ | Easy |Google🔥 |
 411 | [Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/) | | _O(2^n)_ | _O(n)_ | Hard | 🔒 |
 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | | _O(n)_ | _O(n)_ | Medium ||
@@ -92,7 +92,7 @@ My leetcode answers
 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| | _O(n)_ | _O(n)_ | Hard         |Google🔥| Tricky
 157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | | _O(n)_ | _O(1)_ | Easy           |🔒|
 158 | [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) | | _O(n)_ | _O(1)_ | Hard |🔒|
-163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/)| | _O(n)_      | _O(1)_          | Medium         | 🔒Google🔥 |
+163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[Python](Python/Missing_Ranges.py) | _O(n)_      | _O(1)_          | Medium         | 🔒Google🔥 |
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | | _O(n)_ | _O(1)_          | Easy           |
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)   | | _O(n)_        | _O(1)_         | Easy           ||
 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | | _O(n)_ | _O(1)_ |  Medium | | Binary Search
