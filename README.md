@@ -83,7 +83,7 @@ My leetcode answers
 048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)   | | _O(n^2)_      | _O(1)_         | Medium         ||
 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | | _O(m * n)_    | _O(1)_         | Medium         |Google🔥|
 059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | | _O(n^2)_ | _O(1)_      | Medium         ||
-066 | [Plus One](https://leetcode.com/problems/plus-one/)      | | _O(n)_           | _O(1)_         | Easy           |Google🔥|
+066 | [Plus One](https://leetcode.com/problems/plus-one/)      |[Python](Python/Plus_One.py) | _O(n)_           | _O(1)_         | Easy           |Google🔥|
 073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | | _O(m * n)_ | _O(1)_    | Medium         ||
 080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| | _O(n)_       | _O(1)_         | Medium         || Two Pointers
 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| | _O(n^2)_ | _O(1)_        | Easy           ||
@@ -436,8 +436,8 @@ My leetcode answers
 599| [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | | _O((m + n) * l)_ | _O(m * l)_ | Easy         | |
 609| [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | | _O(n * l)_ | _O(n * l)_ | Medium         | |
 721| [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | | _O(nlogn)_ | _O(n)_| Medium         || Union Find
-734| [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) |[Python](Python/Sentence_Similarity.py) | _O(n + p)_ | _O(p)_| Easy         |Google🔥|
-737| [Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/) | | _O(n + p)_ | _O(p)_| Medium         |Google🔥| Union Find
+734| [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) |[Python](Python/Sentence_Similarity.py) | _O(n + p)_ | _O(p)_| Easy         |🔒Google🔥|
+737| [Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/) |[Python](Python/Sentence_Similarity_II.py) | _O(n + p)_ | _O(p)_| Medium         |🔒Google🔥| Union Find
 748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | | _O(n)_ | _O(1)_ | Easy ||
 760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) | | _O(n)_ | _O(n)_ | Easy ||
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | | _O(m + n)_ | _O(n)_ | Easy ||
@@ -725,7 +725,7 @@ My leetcode answers
 339| [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | | _O(n)_ | _O(h)_ | Easy         |🔒||
 364| [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | | _O(n)_ | _O(h)_ | Medium         |🔒||
 366| [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) | | _O(n)_ | _O(h)_ | Medium         |🔒||
-399| [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | | _O(q * \|V\|!)_ | _O(e)_ | Medium         |Google🔥||
+399| [Evaluate Division](https://leetcode.com/problems/evaluate-division/) |[Python](Python/Evaluate_Division.py) | _O(K * E)_ | _O(E)_ | Medium         |Google🔥||
 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | | _O(m * n)_ | _O(m * n)_ | Medium |Google🔥|
 440| [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | | _O(logn)_          | _O(logn)_          | Hard           ||
 464| [Can I Win](https://leetcode.com/problems/can-i-win/) | | _O(n!)_          | _O(n)_          | Medium           ||
