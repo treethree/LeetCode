@@ -144,7 +144,7 @@ My leetcode answers
 732 | [My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | | _O(n^2)_ | _O(n)_ | Hard ||
 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | | _O(n)_ | _O(1)_ | Easy ||
 755 | [Pour Water](https://leetcode.com/problems/pour-water/) | | _O(v * n)_ | _O(1)_ | Medium ||
-766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | | _O(m * n)_ | _O(1)_ | Easy |Google🔥|
+766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) |[Python](Python/Toeplitz_Matrix.py) | _O(m * n)_ | _O(1)_ | Easy |Google🔥|
 768 | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | | _O(nlogn)_ | _O(n)_ | Hard ||
 769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) | | _O(n)_ | _O(1)_ | Medium ||
 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | | _O(n^2)_ | _O(n^2)_ | Hard || Union Find
@@ -819,7 +819,7 @@ My leetcode answers
 309| [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | | _O(n)_ | _O(1)_ | Medium ||
 312| [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | | _O(n^3)_ | _O(n^2)_ | Hard ||
 322| [Coin Change](https://leetcode.com/problems/coin-change/) | | _O(n * k)_ | _O(k)_ | Medium ||
-351| [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/) | | _O(9^2 * 2^9)_ | _O(9 * 2^9)_ | Medium | 🔒Google🔥 | Backtracking |
+351| [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/) |[Python](Python/Android_Unlock_Patterns.py) [Java](Java/Android_Unlock_Patterns.java) | _O(9^2 * 2^9)_ | _O(9 * 2^9)_ | Medium | 🔒Google🔥 | Backtracking |
 357| [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | | _O(n)_ | _O(1)_ | Medium || Backtracking, Math |
 361| [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) |[Python](Python/Bomb_Enemy.py) [Java](Java/Bomb_Enemy.java) | _O(m * n)_ | _O(m * n)_ | Medium | Google🔥 | |
 368| [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | | _O(n^2)_ | _O(n)_ | Medium | | |
