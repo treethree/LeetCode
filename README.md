@@ -537,7 +537,7 @@ My leetcode answers
 ## Sort
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-056| [Merge Intervals](https://leetcode.com/problems/merge-intervals/)| | _O(nlogn)_  | _O(1)_        | Hard           |Google🔥|
+056| [Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](Python/Merge_Intervals.py) | _O(nlogn)_  | _O(1)_        | Hard           |Google🔥|
 057| [Insert Interval](https://leetcode.com/problems/insert-interval/)| | _O(n)_    | _O(1)_          | Hard           |Google🔥|
 075| [Sort Colors](https://leetcode.com/problems/sort-colors/)   | | _O(n)_         | _O(1)_          | Medium         || Tri Partition
 088| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| | _O(n)_ | _O(1)_       | Easy           ||
