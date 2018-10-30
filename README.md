@@ -219,7 +219,7 @@ My leetcode answers
 557| [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | | _O(n)_ | _O(1)_ | Easy         | |
 564| [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/) | | _O(l)_ | _O(l)_ | Hard         | |
 591| [Tag Validator](https://leetcode.com/problems/tag-validator/) | | _O(n)_ | _O(n)_ | Hard         | |
-616| [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | | _O(n * d * l)_ | _O(n)_ |  Medium | 🔒Google🔥 |
+616| [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) |[Python](Python/Add_Bold_Tag_in_String.py) [Java](Java/Add_Bold_Tag_in_String.java) | _O(n * d * l)_ | _O(n)_ |  Medium | 🔒Google🔥 |
 647| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | | _O(n)_ | _O(n)_ |  Medium || `Manacher's Algorithm`
 648| [Replace Words](https://leetcode.com/problems/replace-words/) | | _O(n)_ | _O(t)_ | Medium         || Trie |
 657| [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/) | | _O(n)_ | _O(1)_ | Easy         | |
@@ -549,7 +549,7 @@ My leetcode answers
 252| [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | | _O(nlogn)_   | _O(n)_        | Easy         |🔒| |
 253| [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | | _O(nlogn)_   | _O(n)_        | Medium         |🔒| |
 274| [H-Index](https://leetcode.com/problems/h-index/) | | _O(n)_ | _O(n)_ | Medium         || Counting Sort |
-280| [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | | _O(n)_   | _O(1)_        | Medium         |🔒Google🔥| |
+280| [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) |[Python](Python/Wiggle_Sort.py) [Java](Java/Wiggle_Sort.java) | _O(n)_   | _O(1)_        | Medium         |🔒Google🔥| |
 324| [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | | _O(n)_  on average | _O(1)_        | Medium         | variant of [Sort Colors](https://leetcode.com/problems/sort-colors/) | Tri Partition |
 347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | | _O(n)_ | _O(n)_        | Medium         | | Quick Select, Heap, Bucket Sort |
 406| [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | | _O(n * sqrt(n))_ | _O(n)_        | Medium         |Google🔥 | Tricky |
@@ -565,7 +565,7 @@ My leetcode answers
 142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| | _O(n)_ | _O(1)_   | Medium         ||
 143| [Reorder List](https://leetcode.com/problems/reorder-list/)| | _O(n)_          |  _O(1)_         | Medium         ||  
 167| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | | _O(n)_   | _O(1)_         | Medium         | |
-259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | | _O(n^2)_ | _O(1)_          | Medium         | 🔒Google🔥 |
+259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) |[Python](Python/3Sum_Smaller.py) [Java](Java/3Sum_Smaller.java) | _O(n^2)_ | _O(1)_          | Medium         | 🔒Google🔥 |
 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | | _O(n)_ | _O(1)_          | Easy         | |
 287| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| | _O(n)_          | _O(1)_          | Hard       | | Binary Search, Two Pointers |
 344| [Reverse String](https://leetcode.com/problems/reverse-string/) | | _O(n)_ | _O(1)_ | Easy         | |
