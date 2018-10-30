@@ -374,7 +374,7 @@ My leetcode answers
 677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | | _O(n)_ | _O(t)_ | Medium || Trie
 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | | _O(n)_ | _O(n)_ | Medium || Union Find
 685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | | _O(n)_ | _O(n)_ | Hard || Union Find
-687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | | _O(n)_ | _O(h)_ | Easy |Google🔥|
+687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) |[Python](Python/Longest_Univalue_Path.py) | _O(n)_ | _O(h)_ | Easy |Google🔥|
 699 | [Falling Squares](https://leetcode.com/problems/falling-squares/) | | _O(nlogn)_ | _O(n)_ | Hard || Segment Tree |
 814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | | _O(n)_ | _O(h)_ | Medium || DFS |
 850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | | _O(nlogn)_ | _O(n)_ | Hard || Segment Tree |
@@ -406,7 +406,7 @@ My leetcode answers
 246| [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | | _O(n)_ | _O(1)_ | Easy         |🔒Google🔥||
 249| [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/) | | _O(nlogn)_ | _O(n)_ | Easy         |🔒Google🔥||
 266| [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | | _O(n)_ |  _O(1)_ | Easy         |🔒||
-288| [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/) | | ctor: _O(n)_, lookup: _O(1)_ | _O(k)_ | Easy         |🔒Google🔥||
+288| [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/) |[Python](Python/Unique_Word_Abbreviation.py) | ctor: _O(n)_, lookup: _O(1)_ | _O(k)_ | Easy         |🔒Google🔥||
 290| [Word Pattern](https://leetcode.com/problems/word-pattern/) | | _O(n)_ | _O(c)_ | Easy         | variant of [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ||
 299| [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | | _O(n)_ | _O(1)_ | Easy         |||
 305| [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) |[Python](Python/Number_of_Islands_II.py) | _O(klgmn)_ | | Hard         | Google🔥🔒 | Union Find
