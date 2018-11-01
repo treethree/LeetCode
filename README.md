@@ -552,7 +552,7 @@ My leetcode answers
 280| [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) |[Python](Python/Wiggle_Sort.py) [Java](Java/Wiggle_Sort.java) | _O(n)_   | _O(1)_        | Medium         |🔒Google🔥| |
 324| [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | | _O(n)_  on average | _O(1)_        | Medium         | variant of [Sort Colors](https://leetcode.com/problems/sort-colors/) | Tri Partition |
 347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | | _O(n)_ | _O(n)_        | Medium         | | Quick Select, Heap, Bucket Sort |
-406| [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | | _O(n * sqrt(n))_ | _O(n)_        | Medium         |Google🔥 | Tricky |
+406| [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) |[Python](Python/Queue_Reconstruction_by_Height.py) | _O(n * sqrt(n))_ | _O(n)_        | Medium         |Google🔥 | Tricky |
 451| [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | | _O(n)_ | _O(n)_        | Medium         | | |
 692| [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | | _O(n + klogk)_ on average | _O(n)_        | Medium         | | Quick Select, Heap, Bucket Sort |
 
@@ -692,7 +692,6 @@ My leetcode answers
 444| [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/)| | _O(n * s)_          | _O(n)_          | Medium         |🔒| Topological Sort |
 
 490| [The Maze](https://leetcode.com/problems/the-maze)| |          |          | Medium         |🔒Google🔥|  |
-
 542| [01 Matrix](https://leetcode.com/problems/01-matrix/)| | _O(m * n)_          | _O(m * n)_          | Medium         || DP
 666| [Path Sum IV](https://leetcode.com/problems/path-sum-iv/)| | _O(n)_          | _O(w)_          | Medium         |🔒| Topological Sort |
 675|[Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/)| | _O(t * m * n)_ | _O(m * n)_ | Hard | | `A* Search Algorithm` |
