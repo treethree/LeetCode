@@ -569,7 +569,7 @@ My leetcode answers
 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | | _O(n)_ | _O(1)_          | Easy         | |
 287| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| | _O(n)_          | _O(1)_          | Hard       | | Binary Search, Two Pointers |
 344| [Reverse String](https://leetcode.com/problems/reverse-string/) | | _O(n)_ | _O(1)_ | Easy         | |
-345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | | _O(n)_ | _O(1)_ | Easy         |Google🔥 |
+345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) |[Python](Python/Reverse_Vowels_of_a_String.py) | _O(n)_ | _O(1)_ | Easy         |Google🔥 |
 349| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | | _O(m + n)_ | _O(min(m, n))_ | Easy         | EPI | Hash, Binary Search
 350| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | | _O(m + n)_ | _O(1)_ | Easy         | EPI | Hash, Binary Search
 360| [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/) | | _O(n)_ | _O(1)_ | Medium         |🔒Google🔥|
@@ -579,7 +579,7 @@ My leetcode answers
 777| [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/) | | _O(n)_ | _O(1)_ | Medium         ||
 826| [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/) | | _O(mlogm + nlogn)_ | _O(n)_ | Medium         ||
 828| [Unique Letter String](https://leetcode.com/problems/unique-letter-string/) | | _O(n)_ | _O(1)_ | Hard         ||
-844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | | _O(m + n)_ | _O(1)_ | Easy |Google🔥|
+844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) |[Python](Python/Backspace_String_Compare.py) | _O(m + n)_ | _O(1)_ | Easy |Google🔥|
 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | | _O(n)_ | _O(1)_ | Easy ||
 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | | _O(n)_ | _O(1)_ | Medium ||
 
@@ -811,7 +811,7 @@ My leetcode answers
 256| [Paint House](https://leetcode.com/problems/paint-house/) |    | _O(n)_| _O(1)_| Medium |🔒||
 265| [Paint House II](https://leetcode.com/problems/paint-house-ii/) | | _O(n * k)_| _O(k)_| Hard |🔒||
 276| [Paint Fence](https://leetcode.com/problems/paint-fence/) |   [Python](./Python/Paint-Fence.py) | _O(n)_| _O(1)_| Easy |🔒Google🔥||
-279| [Perfect Squares](https://leetcode.com/problems/perfect-squares/)| | _O(n * sqrt(n))_         | _O(n)_          | Medium           |Google🔥|  Hash |
+279| [Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python](Python/Perfect_Squares.py) | _O(n * sqrt(n))_         | _O(n)_          | Medium           |Google🔥|  Hash |
 303| [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)| | ctor: _O(n)_, lookup: _O(1)_          | _O(n)_          | Easy           ||
 304| [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)| | ctor: _O(m * n)_, lookup: _O(1)_          | _O(m * n)_          | Medium           ||
 309| [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | | _O(n)_ | _O(1)_ | Medium ||
