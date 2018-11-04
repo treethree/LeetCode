@@ -403,7 +403,7 @@ My leetcode answers
 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  | | _O(n)_        | _O(n)_          | Easy           ||
 219| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)  | | _O(n)_        | _O(n)_          | Easy           ||
 244| [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)     | | ctor: _O(n)_, lookup: _O(a + b)_ |  _O(n)_ | Medium         |🔒||
-246| [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | | _O(n)_ | _O(1)_ | Easy         |🔒Google🔥||
+246| [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) |[Python](Python/Strobogrammatic_Number.py) | _O(n)_ | _O(1)_ | Easy         |🔒Google🔥||
 249| [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/) |[Python](Python/Group_Shifted_Strings.py) | _O(nlogn)_ | _O(n)_ | Easy         |🔒Google🔥||
 266| [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | | _O(n)_ |  _O(1)_ | Easy         |🔒||
 288| [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/) |[Python](Python/Unique_Word_Abbreviation.py) | ctor: _O(n)_, lookup: _O(1)_ | _O(k)_ | Easy         |🔒Google🔥||
