@@ -708,7 +708,7 @@ My leetcode answers
 ## Depth-First Search
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-112| [Path Sum](https://leetcode.com/problems/path-sum/)      | | _O(n)_          | _O(h)_          | Easy           ||
+112| [Path Sum](https://leetcode.com/problems/path-sum/)      |[Python](Python/Path_Sum.py) | _O(n)_          | _O(h)_          | Easy           ||
 113| [Path Sum II](https://leetcode.com/problems/path-sum-ii/)   | | _O(n)_         | _O(h)_          | Medium         ||
 199| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | | _O(n)_     | _O(h)_ | Medium  ||
 200| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](Python/Number_of_Islands.py) [Java](Java/Number_of_Islands.java)| _O(m * n)_ | _O(m * n)_| Medium         |Google🔥|
