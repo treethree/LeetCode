@@ -690,7 +690,7 @@ My leetcode answers
 317| [Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)| | _O(k * m * n)_          | _O(m * n)_          | Hard         | 🔒Google🔥 |
 433| [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)| | _O(n * b)_          | _O(b)_          | Medium         ||
 444| [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/)| | _O(n * s)_          | _O(n)_          | Medium         |🔒| Topological Sort |
-490| [The Maze](https://leetcode.com/problems/the-maze)| |          |          | Medium         |🔒Google🔥|  |
+490| [The Maze](https://leetcode.com/problems/the-maze)|[Python](Python/The_Maze.py) |          |          | Medium         |🔒Google🔥|  |
 542| [01 Matrix](https://leetcode.com/problems/01-matrix/)| | _O(m * n)_          | _O(m * n)_          | Medium         || DP
 666| [Path Sum IV](https://leetcode.com/problems/path-sum-iv/)| | _O(n)_          | _O(w)_          | Medium         |🔒| Topological Sort |
 675|[Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/)| | _O(t * m * n)_ | _O(m * n)_ | Hard | | `A* Search Algorithm` |
