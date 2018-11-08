@@ -42,7 +42,8 @@
 # The given maze does not contain border (like the red rectangle in the example pictures), but you could assume the border of the maze are all walls.
 # The maze contains at least 2 empty spaces, and both the width and height of the maze won't exceed 100.
 
-class Solution(object):
+# BFS solutuon:
+class Solution():
     def hasPath(self, maze, start, destination):
         """
         :type maze: List[List[int]]
@@ -73,3 +74,29 @@ class Solution(object):
                 if maze[row][col] == 0 and [row,col] not in queue:
                     queue.append([row, col])
         return False
+
+# DFS Solution:
+class Solution2():
+    def hasPath(self, maze, start, destination):
+        m, n = len(maze), len(maze[0])
+        visited = [[False for _ in range(n)] for _ in range(m)]
+        res = self.dfs(maze, start[0], start[1], destination, visited)
+        return res
+
+    def dfs(self, maze, i, j, dest, visited):
+        m, n, res = len(maze), len(maze[0]), False
+        if i == dest[0] and j == dest[1]:
+            visited[i][j] = True
+            return True
+        visited[i][j] = True
+        dirs = [[1,0],[-1,0],[0,1],[0,-1]]
+        for _dir in dirs:
+            x, y = i, j
+            while x >=0 and x < m and y >=0 and y < n and maze[x][y] == 0:
+                x += _dir[0]
+                y -= _dir[1]
+            x -= _dir[0]
+            y += _dir[1]
+            if not visited[x][y]:
+                res |= self.dfs(maze, x, y, dest, visited)
+        return res
