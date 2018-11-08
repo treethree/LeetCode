@@ -210,7 +210,7 @@ My leetcode answers
 520| [Detect Capital](https://leetcode.com/problems/detect-capital/) | | _O(l)_ | _O(1)_ | Easy         | |
 521| [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | | _O(min(a, b))_ | _O(1)_ | Easy         | |
 522| [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | | _O(l * n^2)_ | _O(1)_ | Medium         | | Sort
-524| [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | | _O((d * l)  * logd)_ | _O(1)_ | Medium         | Google🔥| Sort
+524| [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) |[Python](Python/Longest_Word_in_Dictionary_through_Deleting.py) | _O((d * l)  * logd)_ | _O(1)_ | Medium         | Google🔥| Sort
 527| [Word Abbreviation](https://leetcode.com/problems/word-abbreviation/) | | _O(n * l)_ ~ _O(n^2 * l^2)_  | _O(n * l)_ | Hard         |🔒|
 539| [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | | _O(nlogn)_ | _O(n)_ | Medium         | |
 541| [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | | _O(n)_ | _O(1)_ | Easy         | |
@@ -942,7 +942,7 @@ My leetcode answers
 353| [Design Snake Game](https://leetcode.com/problems/design-snake-game/) | | _O(1)_ | _O(s)_ | Medium |🔒| Deque |
 355| [Design Twitter](https://leetcode.com/problems/design-twitter/) | | _O(klogu)_ | _O(t + f)_ | Medium | LintCode | Heap |
 359| [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | | _O(1), amortized_ | _O(k)_ | Easy |🔒Google🔥| Deque |
-362| [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | | _O(1), amortized_ | _O(k)_ | Medium |🔒Google🔥| Deque |
+362| [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) |[Python](Python/Design_Hit_Counter.py) | _O(1), amortized_ | _O(k)_ | Medium |🔒Google🔥| Deque |
 379| [Design Phone Directory](https://leetcode.com/problems/design-phone-directory/) | | _O(1)_ | _O(n)_ | Medium |🔒| |
 380| [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | | _O(1)_ | _O(n)_| Hard |Google🔥| |
 381| [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | | _O(1)_ | _O(n)_ | Hard || |
