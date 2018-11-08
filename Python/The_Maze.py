@@ -94,9 +94,9 @@ class Solution2():
             x, y = i, j
             while x >=0 and x < m and y >=0 and y < n and maze[x][y] == 0:
                 x += _dir[0]
-                y -= _dir[1]
+                y += _dir[1]
             x -= _dir[0]
-            y += _dir[1]
+            y -= _dir[1]
             if not visited[x][y]:
                 res |= self.dfs(maze, x, y, dest, visited)
         return res
