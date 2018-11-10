@@ -572,7 +572,7 @@ My leetcode answers
 345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) |[Python](Python/Reverse_Vowels_of_a_String.py) | _O(n)_ | _O(1)_ | Easy         |Google🔥 |
 349| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | | _O(m + n)_ | _O(min(m, n))_ | Easy         | EPI | Hash, Binary Search
 350| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | | _O(m + n)_ | _O(1)_ | Easy         | EPI | Hash, Binary Search
-360| [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/) | | _O(n)_ | _O(1)_ | Medium         |🔒Google🔥|
+360| [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/) |[Python](Python/Sort_Transformed_Array.py) [Java](Java/Sort_Transformed_Array.java) | _O(n)_ | _O(1)_ | Medium         |🔒Google🔥|
 457| [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | | _O(n)_ | _O(1)_ | Medium         ||
 567| [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | | _O(n)_ | _O(1)_ | Medium         ||
 611| [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | | _O(n^2)_ | _O(1)_ | Medium         ||
@@ -937,7 +937,7 @@ My leetcode answers
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 146| [LRU Cache](https://leetcode.com/problems/lru-cache/)     | | _O(1)_ | _O(k)_ | Hard |Google🔥|
 225| [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)     | | push: _O(n)_, pop: _O(1)_, top: _O(1)_ | _O(n)_ | Easy ||
-284| [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)| | _O(1)_ | _O(1)_ | Medium |Google🔥|
+284| [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Python](Python/Peeking_Iterator.py) | _O(1)_ | _O(1)_ | Medium |Google🔥|
 348| [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | | _O(1)_ | _O(n^2)_ | Medium |🔒||
 353| [Design Snake Game](https://leetcode.com/problems/design-snake-game/) | | _O(1)_ | _O(s)_ | Medium |🔒| Deque |
 355| [Design Twitter](https://leetcode.com/problems/design-twitter/) | | _O(klogu)_ | _O(t + f)_ | Medium | LintCode | Heap |
