@@ -58,7 +58,7 @@ My leetcode answers
 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | | _O(1)_ | _O(1)_ | Easy | LintCode |
 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | | _O(n)_ | _O(1)_ | Easy | |
 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) |[Python](Python/UTF-8_Validation.py) | _O(n)_ | _O(1)_ | Medium |Google🔥 |
-401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | | _O(1)_ | _O(1)_ | Easy |Google🔥 |
+401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) |[Python](Python/Binary_Watch.py) | _O(1)_ | _O(1)_ | Easy |Google🔥 |
 411 | [Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/) | | _O(2^n)_ | _O(n)_ | Hard | 🔒 |
 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | | _O(n)_ | _O(n)_ | Medium ||
 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | | _O(1)_ | _O(1)_ | Easy ||
