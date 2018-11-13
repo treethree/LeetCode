@@ -713,7 +713,7 @@ My leetcode answers
 199| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | | _O(n)_     | _O(h)_ | Medium  ||
 200| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](Python/Number_of_Islands.py) [Java](Java/Number_of_Islands.java)| _O(m * n)_ | _O(m * n)_| Medium         |Google🔥|
 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | | _O(n)_ | _O(h)_ | Medium | EPI |
-247| [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) | | _O(n^2 * 5^(n/2))_ | _O(n)_ | Medium         |🔒Google🔥||
+247| [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) |[Python](Python/Strobogrammatic_Number_II.py) | _O(n^2 * 5^(n/2))_ | _O(n)_ | Medium         |🔒Google🔥||
 250| [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees) | | _O(n)_ | _O(h)_ | Medium         |🔒||
 257| [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | | _O(n * h)_ | _O(h)_ | Easy         |Google🔥||
 282| [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | | _O(4^n)_ | _O(n)_ | Hard         |||
