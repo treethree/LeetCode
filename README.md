@@ -106,7 +106,7 @@ My leetcode answers
 251| [Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/) | | _O(1)_ |  _O(1)_ | Medium         |🔒||
 277| [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | | _O(n)_ |  _O(1)_ | Medium         |🔒, EPI ||
 289| [Game of Life](https://leetcode.com/problems/game-of-life/) |[Python](Python/Game_of_Life.py) | _O(m * n)_ |  _O(1)_ | Medium         |Google🔥||
-293| [Flip Game](https://leetcode.com/problems/flip-game/) | | _O(n * (c+1))_ |  _O(1)_ | Easy         |🔒Google🔥||
+293| [Flip Game](https://leetcode.com/problems/flip-game/) |[Python](Python/Flip_Game.py) | _O(n * (c+1))_ |  _O(1)_ | Easy         |🔒Google🔥||
 296| [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) | | _O(m * n)_ |  _O(m + n)_ | Hard         |🔒||
 311| [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) | | _O(m * n * l)_ |  _O(m * l)_ | Medium         |🔒||
 334| [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | | _O(n)_ |  _O(1)_ | Medium         |||
@@ -773,7 +773,7 @@ My leetcode answers
 254| [Factor Combinations](https://leetcode.com/problems/factor-combinations/) | | _O(nlogn)_ | _O(logn)_ | Medium         |🔒||
 267| [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | | _O(n * n!)_ |  _O(n)_ | Medium         |🔒||
 291| [Word Pattern II](https://leetcode.com/problems/word-pattern-ii/) | | _O(n * C(n - 1, c - 1))_ | _O(n + c)_ | Hard         |🔒||
-294| [Flip Game II](https://leetcode.com/problems/flip-game-ii/) | | _O(n + c^2)_ | _O(c)_ | Medium         |🔒Google🔥| DP, Hash |
+294| [Flip Game II](https://leetcode.com/problems/flip-game-ii/) |[Python](Python/Flip_Game_II.py) | _O(n + c^2)_ | _O(c)_ | Medium         |🔒Google🔥| DP, Hash |
 320| [Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/) | | _O(n * 2^n)_ | _O(n)_ | Medium         |🔒||
 425| [Word Squares](https://leetcode.com/problems/word-squares/) | | _O(n^2 * n!)_ | _O(n^2)_ | Hard         |🔒Google🔥||
 526| [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [Python](Python/Beautiful_Arrangement.py) | _O(n!)_ | _O(n)_  | Medium |Google🔥|
