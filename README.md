@@ -941,7 +941,7 @@ My leetcode answers
 348| [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | | _O(1)_ | _O(n^2)_ | Medium |🔒||
 353| [Design Snake Game](https://leetcode.com/problems/design-snake-game/) | | _O(1)_ | _O(s)_ | Medium |🔒| Deque |
 355| [Design Twitter](https://leetcode.com/problems/design-twitter/) | | _O(klogu)_ | _O(t + f)_ | Medium | LintCode | Heap |
-359| [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | | _O(1), amortized_ | _O(k)_ | Easy |🔒Google🔥| Deque |
+359| [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) |[Python](Python/Logger_Rate_Limiter.py) | _O(1), amortized_ | _O(k)_ | Easy |🔒Google🔥| Deque |
 362| [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) |[Python](Python/Design_Hit_Counter.py) | _O(1), amortized_ | _O(k)_ | Medium |🔒Google🔥| Deque |
 379| [Design Phone Directory](https://leetcode.com/problems/design-phone-directory/) | | _O(1)_ | _O(n)_ | Medium |🔒| |
 380| [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | | _O(1)_ | _O(n)_| Hard |Google🔥| |
