@@ -685,7 +685,7 @@ My leetcode answers
 210| [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)| | _O(\|V\| + \|E\|)_          | _O(\|E\|)_          | Medium         || Topological Sort |
 261| [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)| | _O(\|V\| + \|E\|)_          | _O(\|V\| + \|E\|)_          | Medium         | Google🔥 |
 269| [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | | _O(n)_ | _O(1)_ | Hard         |🔒| Topological Sort, BFS, DFS |
-286| [Walls and Gates](https://leetcode.com/problems/walls-and-gates/)| | _O(m * n)_          | _O(g)_          | Medium         | 🔒Google🔥 |
+286| [Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|[Python](Python/Walls_and_Gates.py) | _O(m * n)_          | _O(g)_          | Medium         | 🔒Google🔥 |
 310| [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)| | _O(n)_          | _O(n)_          | Medium         |Google🔥|
 317| [Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)| | _O(k * m * n)_          | _O(m * n)_          | Hard         | 🔒Google🔥 |
 433| [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)| | _O(n * b)_          | _O(b)_          | Medium         ||
