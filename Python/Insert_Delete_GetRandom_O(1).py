@@ -1,3 +1,6 @@
+# 1: A plain list does most of the job. It makes sure insert and getRandom is O(1).
+# The dictionary comes in handy when you need to make remove O(1).
+# 2: The dictionary maps the values to their indices in the list, so when you want to quickly remove something from the list, you always know where to start.
 import random
 class RandomizedSet:
 
