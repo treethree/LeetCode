@@ -548,7 +548,7 @@ My leetcode answers
 218| [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | | _O(nlogn)_   | _O(n)_        | Hard         |Google🔥| Sort, BST|
 252| [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | | _O(nlogn)_   | _O(n)_        | Easy         |🔒| |
 253| [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | | _O(nlogn)_   | _O(n)_        | Medium         |🔒| |
-274| [H-Index](https://leetcode.com/problems/h-index/) | | _O(n)_ | _O(n)_ | Medium         || Counting Sort |
+274| [H-Index](https://leetcode.com/problems/h-index/) |[Python](Python/H-Index.py) | _O(n)_ | _O(n)_ | Medium         || Counting Sort |
 280| [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) |[Python](Python/Wiggle_Sort.py) [Java](Java/Wiggle_Sort.java) | _O(n)_   | _O(1)_        | Medium         |🔒Google🔥| |
 324| [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | | _O(n)_  on average | _O(1)_        | Medium         | variant of [Sort Colors](https://leetcode.com/problems/sort-colors/) | Tri Partition |
 347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | | _O(n)_ | _O(n)_        | Medium         | | Quick Select, Heap, Bucket Sort |
