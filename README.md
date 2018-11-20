@@ -795,7 +795,7 @@ My leetcode answers
 072| [Edit Distance](https://leetcode.com/problems/edit-distance/)| | _O(m * n)_      | _O(m + n)_      | Hard           ||
 087| [Scramble String](https://leetcode.com/problems/scramble-string/) | | _O(n^4)_ | _O(n^3)_        | Hard           ||
 091| [Decode Ways](https://leetcode.com/problems/decode-ways/)   | | _O(n)_          | _O(1)_          | Medium         ||
-096| [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | | _O(n)_      | _O(1)_         | Medium         || Math
+096| [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) |[Python](Python/Unique_Binary_Search_Trees.py) | _O(n)_      | _O(1)_         | Medium         || Math
 097| [Interleaving String](https://leetcode.com/problems/interleaving-string/)| | _O(m * n)_ | _O(m + n)_ | Hard         ||
 115| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)| | _O(n^2)_ | _O(n)_ | Hard           ||
 120| [Triangle](https://leetcode.com/problems/triangle/)|| _O(m * n)_      | _O(n)_         | Medium         ||
