@@ -193,7 +193,7 @@ My leetcode answers
 165| [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | | _O(n)_ | _O(1)_ | Easy     ||
 186| [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | | _O(n)_ | _O(1)_ | Medium         | 🔒 |
 214| [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | | _O(n)_ | _O(n)_ |  Hard || `KMP Algorithm` `Manacher's Algorithm`
-242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)| | _O(n)_       | _O(1)_         | Easy         | LintCode |
+242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](Python/Valid_Anagram.py) | _O(n)_       | _O(1)_         | Easy         | LintCode |
 271| [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[Python](Python/Encode_and_Decode_Strings.py) | _O(n)_ | _O(1)_ | Medium         | 🔒Google🔥 |
 273| [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | | _O(1)_ | _O(1)_ | Hard         | |
 306| [Addictive Number](https://leetcode.com/problems/additive-number/) | | _O(n^3)_ | _O(n)_ | Medium         | |
