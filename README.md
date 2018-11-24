@@ -391,7 +391,7 @@ My leetcode answers
 003| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | | _O(n)_ | _O(1)_ | Medium ||
 030| [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | | _O((m + n) * k)_ | _O(n * k)_ | Hard          ||
 036| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | | _O(9^2)_         | _O(9)_          | Easy           ||
-049| [Group Anagrams](https://leetcode.com/problems/group-anagrams/)     | | _O(n * glogg)_          | _O(n)_          | Medium         ||
+049| [Group Anagrams](https://leetcode.com/problems/group-anagrams/)     |[Python](Python/Group_Anagrams.py) | _O(n * glogg)_          | _O(n)_          | Medium         ||
 076| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | | _O(n)_ | _O(k)_ | Hard          ||
 149| [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | | _O(n^2)_ | _O(n)_ | Hard          ||
 159| [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)| | _O(n)_ | _O(1)_ | Hard         |🔒Google🔥|
