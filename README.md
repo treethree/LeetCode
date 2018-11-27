@@ -774,7 +774,7 @@ My leetcode answers
 267| [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) | | _O(n * n!)_ |  _O(n)_ | Medium         |🔒||
 291| [Word Pattern II](https://leetcode.com/problems/word-pattern-ii/) | | _O(n * C(n - 1, c - 1))_ | _O(n + c)_ | Hard         |🔒||
 294| [Flip Game II](https://leetcode.com/problems/flip-game-ii/) |[Python](Python/Flip_Game_II.py) | _O(n + c^2)_ | _O(c)_ | Medium         |🔒Google🔥| DP, Hash |
-320| [Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/) |[Python](Python/Generalized_Abbreviation.py) | _O(n * 2^n)_ | _O(n)_ | Medium         |🔒||
+320| [Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/) |[Python](Python/Generalized_Abbreviation.py) | _O(n * 2^n)_ | _O(n)_ | Medium         |🔒Google||
 425| [Word Squares](https://leetcode.com/problems/word-squares/) | | _O(n^2 * n!)_ | _O(n^2)_ | Hard         |🔒Google🔥||
 526| [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [Python](Python/Beautiful_Arrangement.py) | _O(n!)_ | _O(n)_  | Medium |Google🔥|
 676| [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) | | _O(n)_ | _O(d)_  | Medium       || Trie, DFS
