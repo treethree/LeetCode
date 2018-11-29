@@ -387,7 +387,7 @@ My leetcode answers
 ## Hash Table
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-001| [Two Sum](https://leetcode.com/problems/two-sum/)      | | _O(n)_         | _O(n)_          | Easy         |Apple|
+001| [Two Sum](https://leetcode.com/problems/two-sum/)      |[Python](Python/Two_Sum.py) | _O(n)_         | _O(n)_          | Easy         |Apple|
 003| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | | _O(n)_ | _O(1)_ | Medium ||
 030| [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | | _O((m + n) * k)_ | _O(n * k)_ | Hard          ||
 036| [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | | _O(9^2)_         | _O(9)_          | Easy           |Apple|
