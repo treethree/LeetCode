@@ -270,7 +270,7 @@ My leetcode answers
 203| [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| | _O(n)_       | _O(1)_         | Easy         ||
 206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](Python/Reverse_Linked_List.py) | _O(n)_       | _O(1)_         | Easy         |Apple|
 234| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| | _O(n)_       | _O(1)_         | Easy         ||
-237| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| | _O(1)_       | _O(1)_         | Easy         | Apple |
+237| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python](Python/Delete_Node_in_a_Linked_List.py) | _O(1)_       | _O(1)_         | Easy         | Apple |
 328| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)| | _O(n)_       | _O(1)_         | Medium         | |
 369| [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)| | _O(n)_       | _O(1)_         | Medium         | 🔒Google🔥 | Two Pointers |
 445| [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)| | _O(m + n)_       | _O(m + n)_         | Medium         |||
