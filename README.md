@@ -882,7 +882,7 @@ My leetcode answers
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 011| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| | _O(n)_ | _O(1)_ | Medium ||
-042| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | | _O(n)_ | _O(1)_ | Hard |Google🔥Apple| Tricky
+042| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) |[Python](Python/Trapping_Rain_Water.py) | _O(n)_ | _O(1)_ | Hard |Google🔥Apple| Tricky
 044| [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | | _O(m + n)_ | _O(1)_    | Hard           |Google🔥| Tricky
 045| [Jump Game II](https://leetcode.com/problems/jump-game-ii/)  | | _O(n)_        | _O(1)_          | Hard           ||
 055| [Jump Game](https://leetcode.com/problems/jump-game/)     | | _O(n)_          | _O(1)_          | Medium         ||
