@@ -674,7 +674,7 @@ My leetcode answers
 ## Breadth-First Search
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-102| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| | _O(n)_| _O(n)_| Easy  |Apple|
+102| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Python](Python/Binary_Tree_Level_Order_Traversal.py) | _O(n)_| _O(n)_| Easy  |Apple|
 107| [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| | _O(n)_| _O(n)_| Easy  ||
 103| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| | _O(n)_| _O(n)_| Medium  ||  
 117| [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| | _O(n)_ | _O(1)_ | Hard ||
