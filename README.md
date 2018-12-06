@@ -197,7 +197,7 @@ My leetcode answers
 271| [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[Python](Python/Encode_and_Decode_Strings.py) | _O(n)_ | _O(1)_ | Medium         | 🔒Google🔥 |
 273| [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | | _O(1)_ | _O(1)_ | Hard         | |
 306| [Addictive Number](https://leetcode.com/problems/additive-number/) | | _O(n^3)_ | _O(n)_ | Medium         | |
-383| [Ransom Note](https://leetcode.com/problems/ransom-note/) | | _O(n)_ | _O(1)_ | Easy         | Apple,EPI |
+383| [Ransom Note](https://leetcode.com/problems/ransom-note/) |[Python](Python/Ransom_Note.py) | _O(n)_ | _O(1)_ | Easy         | Apple,EPI |
 405| [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | | _O(n)_ | _O(1)_ | Easy         | |
 408| [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) | | _O(n)_ | _O(1)_ | Easy         | 🔒 |
 415| [Add Strings](https://leetcode.com/problems/add-strings/) | | _O(n)_ | _O(1)_ | Easy         |Google🔥|
