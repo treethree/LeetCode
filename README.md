@@ -100,7 +100,7 @@ My leetcode answers
 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) |[Python](Python/Summary_Ranges.py) | _O(n)_ | _O(1)_ | Medium |Google🔥|
 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | | _O(n)_ | _O(1)_          | Medium           | |
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |[Python](Python/Product_of_Array_Except_Self.py) | _O(n)_ | _O(1)_          | Medium           | Apple |
-240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | | _O(m + n)_ | _O(1)_ | Medium   | Google🔥Apple |
+240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) |[Python](Python/Search_a_2D_Matrix_II.py) | _O(m + n)_ | _O(1)_ | Medium   | Google🔥Apple |
 243| [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)     | | _O(n)_ |  _O(1)_ | Easy         |🔒||
 245| [Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)     | | _O(n)_ |  _O(1)_ | Medium         |🔒||
 251| [Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/) | | _O(1)_ |  _O(1)_ | Medium         |🔒||
