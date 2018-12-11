@@ -257,7 +257,7 @@ My leetcode answers
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 002| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | | _O(n)_   | _O(1)_          | Medium         ||
-021| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| | _O(n)_ | _O(1)_ | Easy         |Apple|
+021| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Python](Python/Merge_Two_Sorted_Lists.py) | _O(n)_ | _O(1)_ | Easy         |Apple|
 023| [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | | _O(nlogk)_| _O(1)_| Hard          | Google🔥| Heap, Divide and Conquer
 024| [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| | _O(n)_          | _O(1)_          | Easy         ||
 025| [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| | _O(n)_       | _O(1)_         | Hard         ||
