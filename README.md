@@ -791,7 +791,7 @@ My leetcode answers
 062| [Unique Paths](https://leetcode.com/problems/unique-paths/)    | | _O(m * n)_      | _O(m + n)_   | Medium         ||
 063| [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | |  _O(m * n)_ | _O(m + n)_   | Medium         ||
 064| [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| | _O(m * n)_ | _O(m + n)_     | Medium         ||
-070| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| | _O(n)_    | _O(1)_          | Easy           |Apple|
+070| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](Python/Climbing_Stairs.py) | _O(n)_    | _O(1)_          | Easy           |Apple|
 072| [Edit Distance](https://leetcode.com/problems/edit-distance/)| | _O(m * n)_      | _O(m + n)_      | Hard           ||
 087| [Scramble String](https://leetcode.com/problems/scramble-string/) | | _O(n^4)_ | _O(n^3)_        | Hard           ||
 091| [Decode Ways](https://leetcode.com/problems/decode-ways/)   | | _O(n)_          | _O(1)_          | Medium         ||
