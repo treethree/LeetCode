@@ -47,7 +47,7 @@ My leetcode answers
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 136 | [Single Number](https://leetcode.com/problems/single-number/) | | _O(n)_       | _O(1)_          | Easy         |||
 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | | _O(n)_ | _O(1)_          | Medium         |||
-190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  | | _O(1)_        | _O(1)_          | Easy           |Apple||
+190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  |[Python](Python/Reverse_Bits.py) | _O(1)_        | _O(1)_          | Easy           |Apple||
 191  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |[Python](Python/Number_of_1_Bits.py) | _O(1)_ | _O(1)_          | Easy           |Apple||
 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | | _O(1)_ | _O(1)_ | Medium ||
 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | | _O(1)_ | _O(1)_ | Easy | LintCode |
