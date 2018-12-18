@@ -623,7 +623,7 @@ My leetcode answers
 033| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | | _O(logn)_ | _O(1)_   | Hard         ||
 034| [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | | _O(logn)_ | _O(1)_   | Medium         ||
 305| [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | | _O(logn)_ | _O(1)_   | Medium         ||
-069| [Sqrt(x)](https://leetcode.com/problems/sqrtx/)       | | _O(logn)_        | _O(1)_         | Medium         |Apple|
+069| [Sqrt(x)](https://leetcode.com/problems/sqrtx/)       |[Python](Python/Sqrt(x).py) | _O(logn)_        | _O(1)_         | Medium         |Apple|
 074| [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | | _O(logm + logn)_ | _O(1)_ | Medium   ||
 081| [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | | _O(logn)_ | _O(1)_   | Medium         ||
 153| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)         | | _O(logn)_        | _O(1)_          | Medium         ||
