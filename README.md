@@ -86,7 +86,7 @@ My leetcode answers
 066 | [Plus One](https://leetcode.com/problems/plus-one/)      |[Python](Python/Plus_One.py) | _O(n)_           | _O(1)_         | Easy           |Google🔥|
 073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | | _O(m * n)_ | _O(1)_    | Medium         ||
 080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| | _O(n)_       | _O(1)_         | Medium         || Two Pointers
-118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| | _O(n^2)_ | _O(1)_        | Easy           |Apple|
+118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](Python/Pascal's_Triangle.py) | _O(n^2)_ | _O(1)_        | Easy           |Apple|
 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](Python/Pascal's_Triangle_II.py) | _O(n^2)_ | _O(1)_  | Easy           ||
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| | _O(n)_ | _O(1)_ | Easy ||
 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| | _O(n)_ | _O(n)_ | Hard         |Google🔥| Tricky
