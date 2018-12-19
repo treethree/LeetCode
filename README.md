@@ -295,7 +295,7 @@ My leetcode answers
 255| [Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) | | _O(n)_| _O(1)_| Medium |🔒||
 272| [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/) | | _O(h + k)_| _O(h)_| Hard |🔒||
 331| [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | | _O(n)_| _O(1)_| Medium |||
-341| [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Python](Python/Flatten Nested_List_Iterator.py) | _O(n)_        | _O(h)_          | Medium           |🔒Google🔥| Iterator |
+341| [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Python](Python/Flatten_Nested_List_Iterator.py) | _O(n)_        | _O(h)_          | Medium           |🔒Google🔥| Iterator |
 385| [Mini Parser](https://leetcode.com/problems/mini-parser/)| | _O(n)_        | _O(h)_          | Medium           |||
 394| [Decode String](https://leetcode.com/problems/decode-string/)|[Python](Python/Decode_String.py) | _O(n)_        | _O(h)_          | Medium           |Google🔥||
 439| [Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/) | | _O(n)_          | _O(1)_          | Medium           |🔒|
