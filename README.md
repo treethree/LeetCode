@@ -181,7 +181,7 @@ My leetcode answers
 006| [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | | _O(n)_ | _O(1)_        | Easy           ||
 008| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | | _O(n)_ | _O(1)_ | Easy      ||
 014| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | | _O(n * k)_   | _O(1)_  | Easy           ||
-028| [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | | _O(n + k)_   | _O(k)_  | Easy           |Apple| `KMP Algorithm`
+028| [Implement strStr()](https://leetcode.com/problems/implement-strstr/) |[Python](Python/Implement_strStr().py) | _O(n + k)_   | _O(k)_  | Easy           |Apple| `KMP Algorithm`
 038| [Count and Say](https://leetcode.com/problems/count-and-say/) | | _O(n * 2^n)_  | _O(2^n)_        | Easy           ||
 043| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | | _O(m * n)_ | _O(m + n)_  | Medium         ||
 058| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | | _O(n)_   | _O(1)_  | Easy           ||
