@@ -1,3 +1,6 @@
+#Time Complexity O(N^2)
+#Space Complexity O(N^2)
+#dp[i][j]: 表示正方形右下角可延伸的最大边长
 class Solution:
     def maximalSquare(self, matrix):
         """
