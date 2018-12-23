@@ -681,7 +681,7 @@ My leetcode answers
 127| [Word Ladder](https://leetcode.com/problems/word-ladder/)| | _O(n * d)_      | _O(d)_          | Medium         ||
 130| [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)| | _O(m * n)_ | _O(m + n)_ | Medium         ||
 133| [Clone Graph](https://leetcode.com/problems/clone-graph/)| | _O(n)_          | _O(n)_          | Medium         |Google🔥|
-207| [Course Schedule](https://leetcode.com/problems/course-schedule/)| | _O(\|V\| + \|E\|)_          | _O(\|E\|)_          | Medium         |Apple| Topological Sort |
+207| [Course Schedule](https://leetcode.com/problems/course-schedule/)|[Python](Python/Course_Schedule.py) | _O(\|V\| + \|E\|)_          | _O(\|E\|)_          | Medium         |Apple| Topological Sort |
 210| [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)| | _O(\|V\| + \|E\|)_          | _O(\|E\|)_          | Medium         || Topological Sort |
 261| [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)| | _O(\|V\| + \|E\|)_          | _O(\|V\| + \|E\|)_          | Medium         | Google🔥 |
 269| [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | | _O(n)_ | _O(1)_ | Hard         |🔒| Topological Sort, BFS, DFS |
