@@ -715,7 +715,7 @@ My leetcode answers
 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |[Python](Python/Lowest_Common_Ancestor_of_a_Binary_Tree.py) | _O(n)_ | _O(h)_ | Medium | Apple,EPI |
 247| [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) |[Python](Python/Strobogrammatic_Number_II.py) | _O(n^2 * 5^(n/2))_ | _O(n)_ | Medium         |🔒Google🔥||
 250| [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees) | | _O(n)_ | _O(h)_ | Medium         |🔒||
-257| [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | | _O(n * h)_ | _O(h)_ | Easy         |Google🔥Apple||
+257| [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) |[Python](Python/Binary_Tree_Paths.py) | _O(n * h)_ | _O(h)_ | Easy         |Google🔥Apple||
 282| [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | | _O(4^n)_ | _O(n)_ | Hard         |||
 301| [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | | _O(C(n, c))_ | _O(c)_ | Hard         |||
 329| [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) |[Python](Python/Longest_Increasing_Path_in_a_Matrix.py) | _O(m * n)_ | _O(m * n)_ | Hard         |Google🔥||
