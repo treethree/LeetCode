@@ -267,7 +267,7 @@ My leetcode answers
 092| [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| | _O(n)_       | _O(1)_         | Medium         ||
 138| [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | | _O(n)_   | _O(1)_          | Hard         ||
 160| [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| | _O(m + n)_ | _O(1)_         | Easy           ||
-203| [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| | _O(n)_       | _O(1)_         | Easy         ||
+203| [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](Python/Remove_Linked_List_Elements.py) | _O(n)_       | _O(1)_         | Easy         ||
 206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](Python/Reverse_Linked_List.py) | _O(n)_       | _O(1)_         | Easy         |Apple|
 234| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| | _O(n)_       | _O(1)_         | Easy         ||
 237| [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Python](Python/Delete_Node_in_a_Linked_List.py) | _O(1)_       | _O(1)_         | Easy         | Apple |
