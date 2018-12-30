@@ -399,7 +399,7 @@ My leetcode answers
 187| [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | | _O(n)_       | _O(n)_          | Medium         ||
 202| [Happy Number](https://leetcode.com/problems/happy-number/)      | | _O(k)_  | _O(k)_          | Easy          ||
 204| [Count Primes](https://leetcode.com/problems/count-primes/)  | | _O(n)_        | _O(n)_          | Easy           ||
-205| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | | _O(n)_ | _O(1)_       | Easy           ||
+205| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |[Python](Python/Isomorphic_Strings.py) | _O(n)_ | _O(1)_       | Easy           ||
 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  | | _O(n)_        | _O(n)_          | Easy           ||
 219| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)  | | _O(n)_        | _O(n)_          | Easy           ||
 244| [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)     | | ctor: _O(n)_, lookup: _O(a + b)_ |  _O(n)_ | Medium         |🔒||
