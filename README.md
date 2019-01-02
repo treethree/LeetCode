@@ -50,7 +50,7 @@ My leetcode answers
 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  |[Python](Python/Reverse_Bits.py) | _O(1)_        | _O(1)_          | Easy           |Apple||
 191  |[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |[Python](Python/Number_of_1_Bits.py) | _O(1)_ | _O(1)_          | Easy           |Apple||
 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | | _O(1)_ | _O(1)_ | Medium ||
-231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | | _O(1)_ | _O(1)_ | Easy | LintCode |
+231 | [Power of Two](https://leetcode.com/problems/power-of-two/) |[Python](Python/Power_of_Two.py) | _O(1)_ | _O(1)_ | Easy | LintCode |
 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | | _O(n)_ | _O(1)_          | Medium         ||
 268| [Missing Number](https://leetcode.com/problems/missing-number/) |[Python](Python/Missing_Number.py) | _O(n)_ |  _O(1)_ | Medium         | LintCode ||
 318| [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | | _O(n)_ ~ _O(n^2)_ |  _O(n)_ | Medium         || Bit Manipulation, Counting Sort, Pruning|
