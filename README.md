@@ -661,7 +661,7 @@ My leetcode answers
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 220| [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)  | | _O(nlogk)_        | _O(k)_          | Medium           ||
 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | | _O(max(h, k))_ | _O(min(h, k))_ | Medium |Google🔥|
-235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | | _O(h)_ | _O(1)_ | Easy | EPI |
+235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |[Python](Python/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py) | _O(h)_ | _O(1)_ | Easy | EPI |
 270| [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)| | _O(h)_          | _O(1)_          | Easy         | 🔒 |
 285| [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)| | _O(h)_          | _O(1)_          | Medium         | 🔒 |
 352 | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | | _O(logn)_ | _O(n)_ | Hard | |
