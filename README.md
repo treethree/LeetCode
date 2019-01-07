@@ -631,7 +631,7 @@ My leetcode answers
 162| [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | | _O(logn)_       | _O(1)_          | Medium         |Google🔥|
 222| [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | | _O((logn)^2)_       | _O(1)_          | Medium         ||
 275| [H-Index II](https://leetcode.com/problems/h-index-ii/) | | _O(logn)_ | _O(1)_ | Medium         || Binary Search |
-278| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | | _O(logn)_ | _O(1)_ | Easy         | LintCode ||
+278| [First Bad Version](https://leetcode.com/problems/first-bad-version/) |[Python](Python/First_Bad_Version.py) | _O(logn)_ | _O(1)_ | Easy         | LintCode ||
 300| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | | _O(nlogn)_ | _O(n)_ | Medium         | CTCI, LintCode | Binary Search, DP|
 302| [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/)| | _O(nlogn)_          | _O(1)_          | Hard         | 🔒Google🔥 |
 354| [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | | _O(nlogn)_ | _O(1)_ | Hard         |Google🔥||
