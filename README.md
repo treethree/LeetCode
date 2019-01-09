@@ -407,7 +407,7 @@ My leetcode answers
 249| [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/) |[Python](Python/Group_Shifted_Strings.py) | _O(nlogn)_ | _O(n)_ | Easy         |🔒Google🔥||
 266| [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | | _O(n)_ |  _O(1)_ | Easy         |🔒||
 288| [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/) |[Python](Python/Unique_Word_Abbreviation.py) | ctor: _O(n)_, lookup: _O(1)_ | _O(k)_ | Easy         |🔒Google🔥||
-290| [Word Pattern](https://leetcode.com/problems/word-pattern/) | | _O(n)_ | _O(c)_ | Easy         | variant of [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ||
+290| [Word Pattern](https://leetcode.com/problems/word-pattern/) |[Python](Python/Word_Pattern.py) | _O(n)_ | _O(c)_ | Easy         | variant of [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ||
 299| [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | | _O(n)_ | _O(1)_ | Easy         |||
 305| [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) |[Python](Python/Number_of_Islands_II.py) | _O(klgmn)_ | | Hard         | Google🔥🔒 | Union Find
 314| [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | | _O(n)_ | _O(n)_| Medium         | 🔒 | BFS
