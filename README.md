@@ -566,7 +566,7 @@ My leetcode answers
 143| [Reorder List](https://leetcode.com/problems/reorder-list/)| | _O(n)_          |  _O(1)_         | Medium         ||  
 167| [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |[Python](Python/Two_Sum_II_-_Input_array_is_sorted.py) | _O(n)_   | _O(1)_         | Medium         | |
 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) |[Python](Python/3Sum_Smaller.py) [Java](Java/3Sum_Smaller.java) | _O(n^2)_ | _O(1)_          | Medium         | 🔒Google🔥 |
-283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | | _O(n)_ | _O(1)_          | Easy         | |
+283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) |[Python](Python/Move_Zeroes.py) | _O(n)_ | _O(1)_          | Easy         | |
 287| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| | _O(n)_          | _O(1)_          | Hard       | | Binary Search, Two Pointers |
 344| [Reverse String](https://leetcode.com/problems/reverse-string/) | | _O(n)_ | _O(1)_ | Easy         | |
 345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) |[Python](Python/Reverse_Vowels_of_a_String.py) | _O(n)_ | _O(1)_ | Easy         |Google🔥 |
