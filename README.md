@@ -468,7 +468,7 @@ My leetcode answers
 248| [Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/) | | _O(5^(n/2))_ | _O(n)_ | Hard         |🔒||
 258| [Add Digits](https://leetcode.com/problems/add-digits/) |[Python](Python/Add_Digits.py) | _O(1)_ | _O(1)_ | Easy         |||
 263| [Ugly Number](https://leetcode.com/problems/ugly-number/) |[Python](Python/Ugly_Number.py) | _O(1)_ | _O(1)_ | Easy         |||
-292| [Nim Game](https://leetcode.com/problems/nim-game/) | | _O(1)_ | _O(1)_ | Easy         | LintCode ||
+292| [Nim Game](https://leetcode.com/problems/nim-game/) |[Python](Python/Nim_Game.py) | _O(1)_ | _O(1)_ | Easy         | LintCode ||
 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | | _O(1)_ | _O(1)_ | Medium |||
 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | | _O(1)_ | _O(1)_ | Easy |||
 335 | [Self Crossing](https://leetcode.com/problems/self-crossing/) | | _O(n)_ | _O(1)_ | Hard |||
