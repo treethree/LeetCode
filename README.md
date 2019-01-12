@@ -812,7 +812,7 @@ My leetcode answers
 265| [Paint House II](https://leetcode.com/problems/paint-house-ii/) | | _O(n * k)_| _O(k)_| Hard |🔒||
 276| [Paint Fence](https://leetcode.com/problems/paint-fence/) |   [Python](./Python/Paint-Fence.py) | _O(n)_| _O(1)_| Easy |🔒Google🔥||
 279| [Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Python](Python/Perfect_Squares.py) | _O(n * sqrt(n))_         | _O(n)_          | Medium           |Google🔥|  Hash |
-303| [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)| | ctor: _O(n)_, lookup: _O(1)_          | _O(n)_          | Easy           ||
+303| [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Python](Python/Range_Sum_Query_-_Immutable.py) | ctor: _O(n)_, lookup: _O(1)_          | _O(n)_          | Easy           ||
 304| [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)| | ctor: _O(m * n)_, lookup: _O(1)_          | _O(m * n)_          | Medium           ||
 309| [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | | _O(n)_ | _O(1)_ | Medium ||
 312| [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | | _O(n^3)_ | _O(n^2)_ | Hard ||
