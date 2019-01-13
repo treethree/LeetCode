@@ -470,7 +470,7 @@ My leetcode answers
 263| [Ugly Number](https://leetcode.com/problems/ugly-number/) |[Python](Python/Ugly_Number.py) | _O(1)_ | _O(1)_ | Easy         |||
 292| [Nim Game](https://leetcode.com/problems/nim-game/) |[Python](Python/Nim_Game.py) | _O(1)_ | _O(1)_ | Easy         | LintCode ||
 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | | _O(1)_ | _O(1)_ | Medium |||
-326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | | _O(1)_ | _O(1)_ | Easy |||
+326 | [Power of Three](https://leetcode.com/problems/power-of-three/) |[Python](Python/Power_of_Three.py) | _O(1)_ | _O(1)_ | Easy |||
 335 | [Self Crossing](https://leetcode.com/problems/self-crossing/) | | _O(n)_ | _O(1)_ | Hard |||
 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | | _O(n)_ | _O(n)_ | Medium |||
 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | | _O(logn)_ | _O(1)_ | Medium || Tricky, DP |
