@@ -636,7 +636,7 @@ My leetcode answers
 302| [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/)| | _O(nlogn)_          | _O(1)_          | Hard         | 🔒Google🔥 |
 354| [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | | _O(nlogn)_ | _O(1)_ | Hard         |Google🔥||
 363| [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/) | | _O(min(m, n)^2 * max(m, n) * logn(max(m, n)))_ | _O(max(m, n))_ | Hard         |||
-367| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)| | _O(logn)_          | _O(1)_          | Medium         | |
+367| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Python](Python/Valid_Perfect_Square.py) | _O(logn)_          | _O(1)_          | Medium         | |
 374| [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| | _O(logn)_          | _O(1)_          | Easy         | |
 410| [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)| | _O(nlogs)_          | _O(1)_          | Hard         | |
 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | | _O(nlogn)_ | _O(n)_ | Medium | |
