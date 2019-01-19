@@ -55,7 +55,7 @@ My leetcode answers
 268| [Missing Number](https://leetcode.com/problems/missing-number/) |[Python](Python/Missing_Number.py) | _O(n)_ |  _O(1)_ | Medium         | LintCode ||
 318| [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | | _O(n)_ ~ _O(n^2)_ |  _O(n)_ | Medium         || Bit Manipulation, Counting Sort, Pruning|
 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) |[Python](Python/Power_of_Four.py) | _O(1)_ | _O(1)_ | Easy | |
-371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | | _O(1)_ | _O(1)_ | Easy | LintCode |
+371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |[Python](Python/Sum_of_Two_Integers.py) | _O(1)_ | _O(1)_ | Easy | LintCode |
 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | | _O(n)_ | _O(1)_ | Easy | |
 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) |[Python](Python/UTF-8_Validation.py) | _O(n)_ | _O(1)_ | Medium |Google🔥 |
 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) |[Python](Python/Binary_Watch.py) | _O(1)_ | _O(1)_ | Easy |Google🔥 |
