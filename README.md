@@ -198,7 +198,7 @@ My leetcode answers
 273| [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | | _O(1)_ | _O(1)_ | Hard         | |
 306| [Addictive Number](https://leetcode.com/problems/additive-number/) | | _O(n^3)_ | _O(n)_ | Medium         | |
 383| [Ransom Note](https://leetcode.com/problems/ransom-note/) |[Python](Python/Ransom_Note.py) | _O(n)_ | _O(1)_ | Easy         | Apple,EPI |
-405| [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | | _O(n)_ | _O(1)_ | Easy         | |
+405| [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[Python](Python/Convert_a_Number_to_Hexadecimal.py) | _O(n)_ | _O(1)_ | Easy         | |
 408| [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) | | _O(n)_ | _O(1)_ | Easy         | 🔒 |
 415| [Add Strings](https://leetcode.com/problems/add-strings/) | | _O(n)_ | _O(1)_ | Easy         |Google🔥|
 420| [Strong Password Checker](https://leetcode.com/problems/strong-password-checker/) | | _O(n)_ | _O(1)_ | Hard         | |
