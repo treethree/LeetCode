@@ -114,7 +114,7 @@ My leetcode answers
 384| [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | | _O(n)_ |  _O(n)_ | Medium         | EPI ||
 396| [Rotate Function](https://leetcode.com/problems/rotate-function/) | | _O(n)_ |  _O(1)_ | Easy         |||
 412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | | _O(n)_ |  _O(1)_ | Easy         |||
-414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | | _O(n)_ |  _O(1)_ | Easy         |||
+414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) |[Python](Python/Third_Maximum_Number.py) | _O(n)_ |  _O(1)_ | Easy         |||
 419| [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | | _O(m * n)_ |  _O(1)_ | Medium         |||
 422| [Valid Word Square](https://leetcode.com/problems/valid-word-square/) | | _O(m * n)_ |  _O(1)_ | Easy         |🔒Google🔥||
 442| [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | | _O(n)_ |  _O(1)_ | Medium         |||
